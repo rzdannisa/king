@@ -1,0 +1,6 @@
+body{background: :#FAFAFA; font-family:'Segoe UI Light'; font-size:16px; margin:0; padding:0}
+.form{max-width:300px; margin:30px auto 0}
+.form-box{width:280px; padding:20px}
+.circle{width:90px; height:90px; background:#FAFAFA; border-radius:50%; margin:20px auto}
+.inemail,.inpassword{padding:5px; font-family:'Segoe UI Light'; font-size:15px; outline:none; border:1px solid #444;}
+.submit{background:#2672ec; padding:10px; color:#fff; font-family:'Segoe UI Light'; border:none; outline:none; margin:10px auto}
